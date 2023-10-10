@@ -28,6 +28,6 @@ sumtwoint(None, None) | None
 
 #region bailam
 def sumtwoint(i1, i2):
-  t = i1+i2
+  t = i1 + i2
   return t
 #endregion bailam
